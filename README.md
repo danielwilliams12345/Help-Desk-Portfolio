@@ -6,3 +6,5 @@ This repository documents technical incidents, initial troubleshooting data, and
 ### Operational Metrics
 * **Environment**: Tier 1 Support Desk Simulation (Multi-Floor Corporate Office & Remote Users)
 * **Core Competencies Verified**: Identity & Access Management (IAM), Hardware Triage, Access Layer Networking, Remote Administration, and User Provisioning.
+
+_**Access the Projects tab to view daily tickets completed**_
